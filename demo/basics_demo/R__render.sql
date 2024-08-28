@@ -1,2 +1,2 @@
-use database {{ database_name }};
-use schema {{ schema_name }};
+use database schemachange_demo;
+use schema schemachange;
